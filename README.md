@@ -13,4 +13,4 @@
 
 ### Using the staging area to prepare a commit ([png](staging-prepare-commit.png), [svg](staging-prepare-commit.svg))
 
-<img src="staging-prepare-commit.png" width="400px">
+<img src="staging-prepare-commit.png" width="800px">
