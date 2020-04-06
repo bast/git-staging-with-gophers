@@ -6,6 +6,6 @@
 - Images created using the wonderful https://gopherize.me/.
 
 
-### [Working without staging area](without-staging.png)
+### Working without staging area ([png](without-staging.png), [svg](without-staging.svg))
 
 <img src="without-staging.png" width="400px">
