@@ -24,6 +24,20 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
+       id="marker16055"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path16053"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="marker15859"
        style="overflow:visible"
        inkscape:isstock="true">
@@ -584,58 +598,45 @@
          inkscape:export-ydpi="149.9192" />
     </g>
     <text
-       inkscape:export-ydpi="149.9192"
-       inkscape:export-xdpi="149.9192"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
        id="text12267"
-       y="215.9826"
-       x="355.50845"
+       y="218.09924"
+       x="351.27505"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:8.46666622px;stroke-width:0.26458332"
-         y="215.9826"
-         x="355.50845"
+         y="218.09924"
+         x="351.27505"
          id="tspan12265"
-         sodipodi:role="line">add</tspan></text>
+         sodipodi:role="line">add -p</tspan></text>
     <path
-       inkscape:export-ydpi="149.9192"
-       inkscape:export-xdpi="149.9192"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker12691)"
        d="m 339.67076,219.39552 43.91209,-28.7249"
        id="path12269"
        inkscape:connector-curvature="0" />
-    <g
-       id="g12531"
-       transform="translate(1.3175074)"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         id="g12501">
-        <g
-           id="g12279"
-           transform="translate(2.7461796,152.94837)">
-          <text
-             inkscape:export-ydpi="149.9192"
-             inkscape:export-xdpi="149.9192"
-             id="text12275"
-             y="84.909729"
-             x="351.44476"
-             style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             xml:space="preserve"><tspan
-               style="font-size:8.46666622px;stroke-width:0.26458332"
-               y="84.909729"
-               x="351.44476"
-               id="tspan12273"
-               sodipodi:role="line">add</tspan></text>
-          <path
-             inkscape:export-ydpi="149.9192"
-             inkscape:export-xdpi="149.9192"
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10814)"
-             d="m 335.879,88.319119 h 43.96724"
-             id="path12277"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="351.27505"
+       y="237.85809"
+       id="text12275"
+       inkscape:export-xdpi="149.9192"
+       inkscape:export-ydpi="149.9192"><tspan
+         sodipodi:role="line"
+         id="tspan12273"
+         x="351.27505"
+         y="237.85809"
+         style="font-size:8.46666622px;stroke-width:0.26458332">add -p</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path12277"
+       d="m 339.94269,241.26749 h 43.96724"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16055)"
+       inkscape:export-xdpi="149.9192"
+       inkscape:export-ydpi="149.9192" />
     <image
        y="290.84055"
        x="295.34869"
@@ -3664,7 +3665,9 @@ nHcAAAAASUVORK5CYII=
 "
        preserveAspectRatio="none"
        height="32.123074"
-       width="30" />
+       width="30"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        y="218.99149"
        x="399.57861"
@@ -6627,7 +6630,9 @@ uHfv3vK6OwoAAAAASFZ2cHDwnHP2ZVX3BRH5iIhMzGTunL1pZq+uVttfn5ycLK67o8AH6Z8BAAD/
        preserveAspectRatio="none"
        height="32.123074"
        width="30"
-       style="opacity:0.4" />
+       style="opacity:0.4"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        y="218.99149"
        x="295.34869"
@@ -9314,7 +9319,9 @@ AADM1X6/v16v179bVcVXEfEXU0qffv//Ov/niObvfPnlV78TEfVjjhOeSnrqAcA9VZ9//vn/XxTx
 "
        preserveAspectRatio="none"
        height="32.123074"
-       width="30" />
+       width="30"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        y="150.19176"
        x="295.34869"
@@ -13821,7 +13828,9 @@ AAAAAElFTkSuQmCC
 "
        preserveAspectRatio="none"
        height="32.123074"
-       width="30" />
+       width="30"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        width="30"
        height="32.123074"
@@ -16509,7 +16518,9 @@ AADM1X6/v16v179bVcVXEfEXU0qffv//Ov/niObvfPnlV78TEfVjjhOeSnrqAcA9VZ9//vn/XxTx
        id="image12666"
        x="399.57861"
        y="150.19176"
-       style="opacity:0.4" />
+       style="opacity:0.4"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        width="30"
        height="32.123074"
@@ -19538,7 +19549,9 @@ nHcAAAAASUVORK5CYII=
 "
        id="image12668"
        x="507.34079"
-       y="290.84055" />
+       y="290.84055"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        width="30"
        height="32.123074"
@@ -22501,7 +22514,9 @@ uHfv3vK6OwoAAAAASFZ2cHDwnHP2ZVX3BRH5iIhMzGTunL1pZq+uVttfn5ycLK67o8AH6Z8BAAD/
        id="image12670"
        x="507.34079"
        y="218.99149"
-       style="opacity:0.4" />
+       style="opacity:0.4"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <image
        y="150.19176"
        x="507.34079"
@@ -25189,7 +25204,9 @@ AADM1X6/v16v179bVcVXEfEXU0qffv//Ov/niObvfPnlV78TEfVjjhOeSnrqAcA9VZ9//vn/XxTx
        preserveAspectRatio="none"
        height="32.123074"
        width="30"
-       style="opacity:0.4" />
+       style="opacity:0.4"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
