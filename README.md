@@ -9,3 +9,8 @@
 ### Working without staging area ([png](without-staging.png), [svg](without-staging.svg))
 
 <img src="without-staging.png" width="400px">
+
+
+### Using the staging area to prepare a commit ([png](staging-prepare-commit.png), [svg](staging-prepare-commit.svg))
+
+<img src="staging-prepare-commit.png" width="400px">
